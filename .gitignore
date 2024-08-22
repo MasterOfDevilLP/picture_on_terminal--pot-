@@ -1,0 +1,10 @@
+CMakeCache.txt
+CMakeFiles
+CMakeFiles/*
+pictures
+pictures/*
+cmake_install.cmake
+Makefile
+pot
+.vscode
+.vscode/*
