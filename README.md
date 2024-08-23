@@ -11,3 +11,4 @@ How to use:
 Important informations:
 - currently supported is only a max width of 400 pixels to make sure it doesn't wrap around in the terminal (you may zoom out)
 - height of the image is not limited (except for the size of your memory)
+- the programm currently only works on linux, windows support may come soon
