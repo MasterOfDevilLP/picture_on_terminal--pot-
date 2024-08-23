@@ -10,7 +10,7 @@ extern "C" {
 }
 
 /*
-    supported resolution of picture: 256x256
+    Max supported width: 400
 */
 
 std::string rgb_to_pixelstr(int red, int green, int blue)
