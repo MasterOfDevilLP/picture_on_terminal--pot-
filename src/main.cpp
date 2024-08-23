@@ -2,8 +2,6 @@
 #include <string>
 #include <cstring>
 #include <vector>
-#include <unistd.h>
-#include <sys/wait.h>
 #include "./includes/utils.hpp"
 
 extern "C" {
